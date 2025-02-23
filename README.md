@@ -1,29 +1,41 @@
-![Header](https://your-image-url.com/banner.png)
+<h2 align="center">Hey there! I'm Samet Şenol</h2>
 
-# 👋 Hey! I'm [Your Name]  
-🌍 GTM & TypeScript Expert | Web Analytics Enthusiast | Data-Driven Developer  
+<p align="center">
+  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=790b7611f44f5fc33af2a25fecce62839c1dbf642327b2ee&rid=giphy.gif&ct=g">
+</p>
 
-## 🚀 About Me
+<hr>
 
-I specialize in building powerful, data-driven web solutions using **Google Tag Manager (GTM)** and **TypeScript**. With years of experience in digital analytics, I help businesses make sense of their data and optimize their performance.
+<p align="center">
+  <b>Let's connect with me!</b>
+  <p align="center">
+    <a href="https://linkedin.com/in/sametndsenol" alt="LinkedIn">
+      <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/linkedin.svg" width="60" height="60">
+    </a>
+    <a href="mailto:samettsenol@gmail.com" alt="Email">
+      <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/gmail.svg" width="60" height="60">
+    </a>
+  </p>
+</p>
 
-- 🔭 Currently working on advanced GTM integrations for server-side tracking
-- 🌱 Exploring cutting-edge technologies like **GA4**, **Node.js**, and **Server-Side Tagging**
-- 💬 Ask me about `GTM Scripting`, `DataLayer Optimization`, or `TypeScript Automation`
-- 📫 Reach me at: [your.email@example.com](mailto:samettsenol@gmail.com)
----
+<h2 align="center">Technologies</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/javascript.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/typescript.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/nodejs.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/google-tag-manager.png" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/firebase.png" width="60" height="60">
+</p>
 
-## 📈 GitHub Stats
+<hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sametndsenol&show_icons=true&theme=radical)
+<h2 align="center">My Activities</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sametndsenol&layout=compact&theme=tokyonight)
+<a href="">
+  <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=sametndsenol&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true">
+</a>
 
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sametndsenol)
-
-
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametndsenol&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true">
+</a>
