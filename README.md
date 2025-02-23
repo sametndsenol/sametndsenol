@@ -17,17 +17,19 @@
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sametndsenol&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sametndsenol&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametndsenol&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametndsenol&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<hr>
 
 <h2>🔗 Connect with Me</h2>
 
