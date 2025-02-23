@@ -1,41 +1,38 @@
-<h2 align="center">Hey there! I'm Samet Şenol</h2>
+<h1 align="center">👋 Hey! I'm Samet Şenol</h1>
+
+<p align="center">🌍 GTM & TypeScript Expert | Web Analytics Enthusiast | Data-Driven Developer</p>
+
+<h2>🚀 About Me</h2>
+
+<p>
+  I specialize in building powerful, data-driven web solutions using <strong>Google Tag Manager (GTM)</strong> and <strong>TypeScript</strong>. With years of experience in digital analytics, I help businesses make sense of their data and optimize their performance.
+</p>
+
+<ul>
+  <li>🔭 Currently working on advanced GTM integrations for server-side tracking</li>
+  <li>🌱 Exploring cutting-edge technologies like <strong>GA4</strong>, <strong>Node.js</strong>, and <strong>Server-Side Tagging</strong></li>
+  <li>💬 Ask me about <code>GTM Scripting</code>, <code>DataLayer Optimization</code>, or <code>TypeScript Automation</code></li>
+  <li>📫 Reach me at: <a href="mailto:samettsenol@gmail.com">samettsenol@gmail.com</a></li>
+</ul>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=790b7611f44f5fc33af2a25fecce62839c1dbf642327b2ee&rid=giphy.gif&ct=g">
+  <img src="https://github-readme-stats.vercel.app/api?username=sametndsenol&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametndsenol&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <hr>
 
-<p align="center">
-  <b>Let's connect with me!</b>
-  <p align="center">
-    <a href="https://linkedin.com/in/sametndsenol" alt="LinkedIn">
-      <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/linkedin.svg" width="60" height="60">
-    </a>
-    <a href="mailto:samettsenol@gmail.com" alt="Email">
-      <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/gmail.svg" width="60" height="60">
-    </a>
-  </p>
-</p>
-
-<h2 align="center">Technologies</h2>
+<h2>🔗 Connect with Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/javascript.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/typescript.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/nodejs.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/google-tag-manager.png" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/firebase.png" width="60" height="60">
+  <a href="https://linkedin.com/in/sametndsenol" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" width="100" />
+  </a>
 </p>
-
-<hr>
-
-<h2 align="center">My Activities</h2>
-
-<a href="">
-  <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=sametndsenol&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true">
-</a>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametndsenol&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true">
-</a>
