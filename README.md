@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm Samet Şenol</h1>
+<h1 align="center">👋 Hey! I'm Samet</h1>
 
 <p align="center">🌍 GTM & TypeScript Expert | Web Analytics Enthusiast | Data-Driven Developer</p>
 
