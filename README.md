@@ -30,7 +30,6 @@
   </tr>
 </table>
 
-
 <h2>🔗 Connect with Me</h2>
 
 <p align="center">
